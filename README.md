@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hola%2C+soy+Fernando+José+Cano+Tapias;%F0%9F%92%BB+Desarrollador+Full+Stack;%F0%9F%93%9A+Apasionado+por+la+tecnología+y+la+innovación" alt="Título animado" />
+  <h1>👋 Hola, soy Fernando José Cano Tapias</h1>
+  <h2>💻 Desarrollador Full Stack</h2>
+  <h3>📚 Apasionado por la tecnología y la innovación</h3>
 </div>
 
 ---
@@ -69,7 +71,7 @@ const fcano = {
 
 <div align="center">
   <a href="https://github.com/fernandoDev19">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoDev19&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoDev19&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoDev19&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </div>
