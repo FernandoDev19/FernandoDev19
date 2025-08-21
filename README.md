@@ -82,7 +82,7 @@ const fcano = {
   <a href="https://fernando-dev-19.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-2E8B57?style=for-the-badge&logo=react&logoColor=white" alt="Portafolio" />
   </a>
-  <a href="https://www.linkedin.com/in/fernando-jose-cano-tapias" target="_blank">
+  <a href="https://www.linkedin.com/in/fernando-cano-developer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:fernandocanotapias@gmail.com">
