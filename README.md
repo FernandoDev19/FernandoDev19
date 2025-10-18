@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hola, soy Fernando José Cano Tapias</h1>
-  <h2>💻 Desarrollador JavaScript Full Stack</h2>
+  <h2>💻 Desarrollador Backend</h2>
   <h3>📚 Apasionado por la tecnología y la innovación</h3>
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre Mí
 
-¡Hola! Soy un desarrollador JavaScript Full Stack con pasión por crear soluciones tecnológicas innovadoras. Me especializo en el desarrollo de aplicaciones web escalables y eficientes, combinando mis habilidades técnicas con un enfoque creativo para resolver problemas complejos.
+¡Hola! Soy un Desarrollador Backend con pasión por crear soluciones tecnológicas innovadoras. Me especializo en el desarrollo de aplicaciones web escalables y eficientes, combinando mis habilidades técnicas con un enfoque creativo para resolver problemas complejos.
 
 ```javascript
 const fcano = {
@@ -38,11 +38,11 @@ const fcano = {
 #### 🔹 Lenguajes
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
 
 #### 🔹 Frontend
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 
@@ -50,6 +50,7 @@ const fcano = {
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)]()
+[![SpringBoot](https://img.shields.io/badge/Spring_Boot-3.2.5-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)]()
 
 #### 🔹 Bases de Datos
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
@@ -61,12 +62,10 @@ const fcano = {
 ### 🧩 Experiencia Secundaria / Pasada
 
 #### 🔹 Lenguajes
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 [![PHP](https://img.shields.io/badge/PHP-7777AA?style=for-the-badge&logo=php&logoColor=white)]()
 
 #### 🔹 Backend
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)]()
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
 
