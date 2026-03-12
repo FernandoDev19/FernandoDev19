@@ -19,7 +19,7 @@ const fcano = {
   codigo: ["JavaScript", "TypeScript", "Java"],
   tecnologias: {
     frontend: ["React", "Angular", "Bootstrap", "Tailwind CSS"],
-    backend: ["Node.js (NestJS, Express), Java (Spring Boot)"],
+    backend: ["Node.js (NestJS, Express), .Net Core (C#)"],
     basesDeDatos: ["MongoDB", "MySQL", "PostgreSQL", "SQLite"],
     devOps: ["Docker", "AWS (EC2, S3)"]
   },
