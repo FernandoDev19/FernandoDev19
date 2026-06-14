@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hola, soy Fernando José Cano Tapias</h1>
-  <h2>💻 Desarrollador Backend</h2>
+  <h2>💻 Desarrollador FullStack</h2>
   <h3>📚 Apasionado por la tecnología y la innovación</h3>
 </div>
 
@@ -12,14 +12,14 @@
 
 ## 🚀 Sobre Mí
 
-¡Hola! Soy un Desarrollador Backend con pasión por crear soluciones tecnológicas innovadoras. Me especializo en el desarrollo de aplicaciones web escalables y eficientes, combinando mis habilidades técnicas con un enfoque creativo para resolver problemas complejos.
+¡Hola! Soy un Desarrollador FullStack con pasión por crear soluciones tecnológicas innovadoras. Me especializo en el desarrollo de aplicaciones web escalables y eficientes, combinando mis habilidades técnicas con un enfoque creativo para resolver problemas complejos.
 
 ```javascript
 const fcano = {
-  codigo: ["JavaScript", "TypeScript", "Java"],
+  codigo: ["JavaScript", "TypeScript", "Python"],
   tecnologias: {
-    frontend: ["React", "Angular", "Bootstrap", "Tailwind CSS"],
-    backend: ["Node.js (NestJS, Express), .Net Core (C#)"],
+    frontend: ["NextJS", "Expo", "Angular", "Bootstrap", "Tailwind CSS"],
+    backend: ["Node.js (NestJS, Express), FastApi"],
     basesDeDatos: ["MongoDB", "MySQL", "PostgreSQL", "SQLite"],
     devOps: ["Docker", "AWS (EC2, S3)"]
   },
@@ -38,11 +38,12 @@ const fcano = {
 #### 🔹 Lenguajes
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)]()
 
 #### 🔹 Frontend
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)]()
+[![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 
@@ -50,7 +51,7 @@ const fcano = {
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)]()
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)]()
 
 #### 🔹 Bases de Datos
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
